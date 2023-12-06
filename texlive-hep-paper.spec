@@ -1,6 +1,6 @@
 Name:		texlive-hep-paper
-Version:	64917
-Release:	2
+Version:	67632
+Release:	1
 Summary:	Publications in High Energy Physics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hep-paper
